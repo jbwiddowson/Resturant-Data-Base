@@ -66,8 +66,8 @@ A **comprehensive SQL database system** for managing all operations of a restaur
 ## 📁 Each File
 
 📂 /database  
-├── 📄 restaurant_schema.sql  
-├── 📄 sample_data.sql  
-├── 📝 setup_restaurant_db.sh 
+📄 [restaurant_schema.sql]  
+📄 [sample_data.sql]  
+📝 [setup_restaurant_db.sh]
 
 
