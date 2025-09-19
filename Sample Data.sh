@@ -1,3 +1,4 @@
+#!/bin/bash
 -- Insert Categories
 INSERT INTO categories (category_name, description, display_order) VALUES
 ('Appetizers', 'Start your meal with our delicious appetizers', 1),
