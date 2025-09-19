@@ -43,17 +43,17 @@ A **comprehensive SQL database system** for managing all operations of a restaur
 ---
 
 ## 📂 File Structure
-- README.md # Project documentation
-- create_user.sql # SQL to create MySQL user and assign privileges
-- restaurant_schema.sql # Full database schema with constraints and indexes
-- insert_sample_data.sql # Sample data: categories, staff, items, tables, etc.
+|README.md # Project documentation|
+|create_user.sql # SQL to create MySQL user and assign privileges|
+|restaurant_schema.sql # Full database schema with constraints and indexes|
+|insert_sample_data.sql # Sample data: categories, staff, items, tables, etc.|
 
 🧪 Sample Data Included
-✅ 10 menu categories
-✅ 50+ menu items with dietary flags
-✅ 10 suppliers with purchase order setup
-✅ Staff roles and schedules
-✅ Tables (booths, bar, outdoor, etc.)
-✅ Reservations and customer data
-✅ Orders and order items
-✅ Daily sales summaries
+|✅ 10 menu categories|
+|✅ 50+ menu items with dietary flags|
+|✅ 10 suppliers with purchase order setup|
+|✅ Staff roles and schedules|
+|✅ Tables (booths, bar, outdoor, etc.)|
+|✅ Reservations and customer data|
+|✅ Orders and order items|
+|✅ Daily sales summaries|
