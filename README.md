@@ -43,7 +43,7 @@ A **comprehensive SQL database system** for managing all operations of a restaur
 ---
 
 ## 📂 File Structure
-├── README.md # Project documentation
-├── create_user.sql # SQL to create MySQL user and assign privileges
-├── restaurant_schema.sql # Full database schema with constraints and indexes
-├── insert_sample_data.sql # Sample data: categories, staff, items, tables, etc.
+- README.md # Project documentation
+- create_user.sql # SQL to create MySQL user and assign privileges
+- restaurant_schema.sql # Full database schema with constraints and indexes
+- insert_sample_data.sql # Sample data: categories, staff, items, tables, etc.
