@@ -63,6 +63,11 @@ A **comprehensive SQL database system** for managing all operations of a restaur
 🔍 Searchable — full-text index on menu descriptions  
 🍝 Realistic — ready for POS integration, reporting dashboards, or restaurant apps
 
+## 📁 Each File
 
+📂 /database  
+├── 📄 restaurant_schema.sql  
+├── 📄 sample_data.sql  
+├── 📝 setup_restaurant_db.sh 
 
 
