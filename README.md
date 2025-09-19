@@ -68,6 +68,6 @@ A **comprehensive SQL database system** for managing all operations of a restaur
 📂 /database  
 📄 [restaurant_schema.sql]  
 📄 [sample_data.sql]  
-📝 [setup_restaurant_db.sh] (https://github.com/jbwiddowson/Resturant-Data-Base/blob/main/Initial%20Setup%20and%20Database%20Creation.sh)
+📝 [setup_restaurant_db.sh](https://github.com/jbwiddowson/Resturant-Data-Base/blob/main/Initial%20Setup%20and%20Database%20Creation.sh)
 
 
