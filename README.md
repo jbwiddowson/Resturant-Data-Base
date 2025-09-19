@@ -55,7 +55,7 @@ A **comprehensive SQL database system** for managing all operations of a restaur
 
 ---
 
-##📈 Highlights
+## 📈 Highlights
 
 🎯 Normalized schema — avoids redundancy and maintains data integrity  
 ⚡ Optimized with indexes — supports fast lookups and reporting  
