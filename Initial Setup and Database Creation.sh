@@ -1,3 +1,4 @@
+#!/bin/bash
 # Connect to MySQL
 sudo mysql -u root -p
 
