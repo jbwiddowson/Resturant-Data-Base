@@ -1,4 +1,3 @@
-#!/bin/bash
 -- Create the restaurant database
 CREATE DATABASE restaurant_db CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci;
 USE restaurant_db;
